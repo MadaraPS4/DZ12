@@ -1,0 +1,6 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\bin\Debug\Collections.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\bin\Debug\Collections.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\bin\Debug\Collections.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\obj\Debug\Collections.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Collections\Collections\obj\Debug\Collections.pdb
